@@ -1,5 +1,3 @@
-<img width="1425" height="703" alt="Screenshot 2026-11-26 at 10 00 16 PM" src="https://github.com/user-attachments/assets/6f07eccc-1b3c-4cee-9768-43b413f08dcc" /># AWS IAM: Users, Groups, Policies & MFA
-
 **Module:** AWS IAM – Identity and Access Management  
 **Date Completed:** November 2026  
 **Author:** Manjiri Sonawane — [GitHub Profile](https://github.com/manjiri-sonawane)
