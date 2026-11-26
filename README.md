@@ -60,6 +60,12 @@ Add your own AWS Console screenshots here:
 
 Example:
 
+<img width="1396" height="670" alt="Screenshot 2026-11-26 at 9 59 32 PM" src="https://github.com/user-attachments/assets/57dff287-9a51-479c-b943-fd9ec6e51d39" />
+
+
+<img width="1436" height="740" alt="Screenshot 2026-11-26 at 9 59 53 PM" src="https://github.com/user-attachments/assets/8f05ceeb-d903-4210-b988-1076d77bbe94" />
+
+
 <img width="1425" height="703" alt="Screenshot 2026-11-26 at 10 00 16 PM" src="https://github.com/user-attachments/assets/967ef9a7-f46b-45d4-a791-a7cd1f50d9ce" />
 
 
